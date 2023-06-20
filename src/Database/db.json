@@ -1,0 +1,135 @@
+{
+  "patients": [
+    {
+      "fullName": "Prithwijit Banerjee",
+      "message": "Teeth Problem",
+      "Department": "Dental Care",
+      "Doctors": "Thomas Henry",
+      "date": "2023-06-19",
+      "time": "12:00pm",
+      "phone": "9836716500",
+      "emailId": "prithwijit98@gmail.com",
+      "id": 1
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Thomas Henry",
+      "department": "Cardiology"
+    },
+    {
+      "id": 2,
+      "name": "Harrision Samuel",
+      "department": "Radiography"
+    },
+    {
+      "id": 4,
+      "name": "Alexzander James",
+      "department": "Dental "
+    },
+    {
+      "id": 5,
+      "name": "Edward John",
+      "department": "Pediatry"
+    },
+    {
+      "id": 6,
+      "name": "Thomas Henry",
+      "department": "Neurology"
+    },
+    {
+      "id": 7,
+      "name": "Henry Samauel",
+      "department": "Palmology"
+    },
+    {
+      "id": 7,
+      "name": "Thomas Alexzander",
+      "department": "Cardiology"
+    },
+    {
+      "id": 8,
+      "name": "Harrison Thomas",
+      "department": "Traumatology"
+    },
+    {
+      "id": 9,
+      "name": "Jonas Thompson",
+      "department": "Cardiology"
+    },
+    {
+      "id": 10,
+      "name": "Henry Forth",
+      "department": "Hematology"
+    },
+    {
+      "id": 11,
+      "name": "Thomas Henry",
+      "department": "Dental"
+    },
+    {
+      "id": 12,
+      "name": "pronoy debnath",
+      "department": "cardiology"
+    }
+  ],
+  "guestUsers": [],
+  "departments": [
+    {
+      "dName": "Opthomology",
+      "id": 1,
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    },
+    {
+      "dName": "Cardiology System",
+      "id": 2,
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    },
+    {
+      "dName": "Dental Care",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque.",
+      "id": 3
+    },
+    {
+      "dName": "Child Care",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque.",
+      "id": 4
+    },
+    {
+      "dName": "Pulmology Center",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque.",
+      "id": 5
+    },
+    {
+      "dName": "Gynecology",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque.",
+      "id": 6
+    },
+    {
+      "dName": "cardiology ",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque.",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "dName": "Gynecology",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    },
+    {
+      "id": 9,
+      "dName": "Pulmology",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    },
+    {
+      "id": 10,
+      "dName": "Neurology",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    },
+    {
+      "id": 11,
+      "dName": "Hematology",
+      "dDescript": "Saepe nulla praesentium eaque omnis perferendis a doloremque."
+    }
+  ]
+}
