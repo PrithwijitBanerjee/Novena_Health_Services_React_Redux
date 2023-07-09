@@ -1,17 +1,5 @@
 {
-  "patients": [
-    {
-      "fullName": "Prithwijit Banerjee",
-      "message": "Teeth Problem",
-      "Department": "Dental Care",
-      "Doctors": "Thomas Henry",
-      "date": "2023-06-19",
-      "time": "12:00pm",
-      "phone": "9836716500",
-      "emailId": "prithwijit98@gmail.com",
-      "id": 1
-    }
-  ],
+  "patients": [],
   "doctors": [
     {
       "id": 1,
@@ -74,7 +62,32 @@
       "department": "cardiology"
     }
   ],
-  "guestUsers": [],
+  "guestUsers": [
+    {
+      "fullName": "Prithwijit Banerjee",
+      "emailId": "prithwijit98@gmail.com",
+      "query": "Ambulance Fees?",
+      "phone": "9836716501",
+      "message": "Ambulance Fees?",
+      "id": 1
+    },
+    {
+      "fullName": "Prithwijit Banerjee",
+      "emailId": "prithwijit98@gmail.com",
+      "query": "Ambulance Fees?",
+      "phone": "9836716501",
+      "message": "Ambulance Fees?",
+      "id": 2
+    },
+    {
+      "fullName": "Prithwijit Banerjee",
+      "emailId": "prithwijit98@gmail.com",
+      "query": "Ambulance Fees?",
+      "phone": "9836716501",
+      "message": "Ambulance Fees?",
+      "id": 3
+    }
+  ],
   "departments": [
     {
       "dName": "Opthomology",

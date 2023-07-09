@@ -23,7 +23,7 @@ const DepartmentsData = () => {
     const navigate = useNavigate();
     const handleDeleteDepartmentData = async (id) => {
         await deleteDepartment(id);
-        
+
         //Refreshing Department Table...
         dispatch(fetchDepartmentData());
         toast.error(`Record with Id ${id} has been deleted`, { theme: "colored" });

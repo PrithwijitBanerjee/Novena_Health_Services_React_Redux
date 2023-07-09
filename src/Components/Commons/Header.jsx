@@ -223,12 +223,12 @@ const Header = () => {
                                             </Link>
                                         </li>
                                         <li className="nav-item">
-                                            <Link className="nav-link" onClick={()=>{
+                                            <button className="nav-link" style={{border:'none',backgroundColor:'white'}} onClick={()=>{
                                                 dispatch(signOut());
                                                 navigate('/');
                                             }}>
                                                signOut
-                                            </Link>
+                                            </button>
                                         </li>
                                     </>
                                 }
